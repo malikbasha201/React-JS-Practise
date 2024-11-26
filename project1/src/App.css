@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #7925d3;
 }
 
 .App-logo {
@@ -50,4 +51,29 @@
   height: 400px;
   width: 400px;
   
+}
+
+
+#examples{
+  background-color:#7925d3;
+  width: 800px;
+  height: 300px;
+}
+
+#examples h1,li{
+  background-color:#7925d3;
+  width: 150px;
+}
+
+#examples button{
+  background-color:#430d7d;
+  font-size: 20px;
+  width: 120px;
+  height: 30px;
+  border-radius: 10px;
+  margin-bottom: 4px;
+}
+
+button:hover{
+  background-color: #4a0990;
 }
